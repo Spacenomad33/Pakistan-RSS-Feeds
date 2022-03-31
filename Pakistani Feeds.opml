@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.1">
+  <head>
+    <title>
+      Feeder
+    </title>
+  </head>
+  <body>
+    <outline title="Express Tribune" text="Express Tribune">
+      <outline title="Latest Analysis News - The Express Tribune" text="Latest Analysis News - The Express Tribune" type="rss" xmlUrl="https://tribune.com.pk/feed/analysis"/>
+      <outline title="Latest News, Breaking News &amp; Top News Stories | The Express Tribune" text="Latest News, Breaking News &amp; Top News Stories | The Express Tribune" type="rss" xmlUrl="https://tribune.com.pk/feed/latest"/>
+      <outline title="Politics | Political News, Videos and Analysis | eTribune" text="Politics | Political News, Videos and Analysis | eTribune" type="rss" xmlUrl="https://tribune.com.pk/feed/politics"/>
+    </outline>
+    <outline title="Geo News" text="Geo News">
+      <outline title="GEO TV - Business" text="GEO TV - Business" type="rss" xmlUrl="https://www.geo.tv/rss/1/3"/>
+      <outline title="GEO TV - Pakistan" text="GEO TV - Pakistan" type="rss" xmlUrl="https://www.geo.tv/rss/1/1"/>
+      <outline title="GEO TV - Sports" text="GEO TV - Sports" type="rss" xmlUrl="https://www.geo.tv/rss/1/4"/>
+      <outline title="GEO TV - World" text="GEO TV - World" type="rss" xmlUrl="https://www.geo.tv/rss/1/2"/>
+    </outline>
+    <outline title="Qaumi Awaz" text="Qaumi Awaz">
+      <outline title="خبریں" text="خبریں" type="rss" xmlUrl="https://www.qaumiawaz.com/stories.rss?section=news"/>
+      <outline title="سماجی" text="سماجی" type="rss" xmlUrl="https://www.qaumiawaz.com/stories.rss?section=social"/>
+      <outline title="سیاسی" text="سیاسی" type="rss" xmlUrl="https://www.qaumiawaz.com/stories.rss?section=political"/>
+      <outline title="عالمی خبریں" text="عالمی خبریں" type="rss" xmlUrl="https://www.qaumiawaz.com/stories.rss?section=international"/>
+      <outline title="قومی" text="قومی" type="rss" xmlUrl="https://www.qaumiawaz.com/stories.rss?section=national"/>
+    </outline>
+    <outline title="The News International" text="The News International">
+      <outline title="The News International - Business" text="The News International - Business" type="rss" xmlUrl="https://www.thenews.com.pk/rss/1/4"/>
+      <outline title="The News International - National" text="The News International - National" type="rss" xmlUrl="https://www.thenews.com.pk/rss/1/1"/>
+      <outline title="The News International - Politics" text="The News International - Politics" type="rss" xmlUrl="https://www.thenews.com.pk/rss/1/8"/>
+      <outline title="The News International - Sports" text="The News International - Sports" type="rss" xmlUrl="https://www.thenews.com.pk/rss/1/3"/>
+      <outline title="The News International - Weird" text="The News International - Weird" type="rss" xmlUrl="https://www.thenews.com.pk/rss/1/9"/>
+      <outline title="The News International - World" text="The News International - World" type="rss" xmlUrl="https://www.thenews.com.pk/rss/1/2"/>
+    </outline>
+    <outline title="Tribune" text="Tribune">
+      <outline title="Cricket news | Latest Cricket Updates | The Express Tribune" text="Cricket news | Latest Cricket Updates | The Express Tribune" type="rss" xmlUrl="https://tribune.com.pk/feed/cricket"/>
+    </outline>
+    <outline title="UrduPoint" text="UrduPoint">
+      <outline title="UrduPoint.com All Urdu News" text="UrduPoint.com All Urdu News" type="rss" xmlUrl="https://www.urdupoint.com/rss/urdupoint.rss"/>
+      <outline title="UrduPoint.com Image Urdu News" text="UrduPoint.com Image Urdu News" type="rss" xmlUrl="https://www.urdupoint.com/rss/urdupoint-images.rss"/>
+      <outline title="UrduPoint.com Important Urdu News" text="UrduPoint.com Important Urdu News" type="rss" xmlUrl="https://www.urdupoint.com/rss/urdupoint-imp.rss"/>
+      <outline title="UrduPoint.com National Urdu News" text="UrduPoint.com National Urdu News" type="rss" xmlUrl="https://www.urdupoint.com/rss/urdupoint-national.rss"/>
+      <outline title="UrduPoint.com Sports Urdu News" text="UrduPoint.com Sports Urdu News" type="rss" xmlUrl="https://www.urdupoint.com/rss/urdupoint-sports.rss"/>
+    </outline>
+    <outline title="صفحہ اول" text="صفحہ اول">
+      <outline title="Qaumi Awaz" text="Qaumi Awaz" type="rss" xmlUrl="https://www.qaumiawaz.com/stories.rss"/>
+    </outline>
+  </body>
+</opml>
